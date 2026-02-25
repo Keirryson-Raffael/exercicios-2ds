@@ -12,3 +12,26 @@ Complete o exercício no tempo estimado.
 🐝 <a href="https://judge.beecrowd.com/pt/login" target="_blank">ACESSE AQUI O BEECROWD</a>
 
 ---
+
+# Atividades e Projetos - 1º Bimestre
+
+### Programação Web
+- Projeto Pessoal: aguarde mais informações...
+- **Projeto 1 - Sistema de Validação de Pedidos**<br>
+Prazo de Entrega 1: 25-fev (2,5 pt) | Prazo de Entrega 2: 01-mar (1,5 pt)
+- **Projeto 2 -**<br>
+Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+
+### Análise e Projeto de Sistemas
+- Projeto Pessoal: aguarde mais informações...
+- **Projeto 1 -**<br>
+Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+- **Projeto 2 -**<br>
+Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+
+### Gestão de Startup I
+- Projeto Pessoal: aguarde mais informações...
+- **Projeto 1 -**<br>
+Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
+- **Projeto 2 -**<br>
+Prazo de Entrega 1: - (2,5 pt) | Prazo de Entrega 2: - (1,5 pt)
